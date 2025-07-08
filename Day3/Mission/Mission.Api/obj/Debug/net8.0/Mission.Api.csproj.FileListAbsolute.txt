@@ -139,14 +139,15 @@ D:\Summer Internship 2025\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositor
 D:\Summer Internship 2025\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.dll
 D:\Summer Internship 2025\Mission\Mission.Api\bin\Debug\net8.0\Mission.Repositories.pdb
 D:\Summer Internship 2025\Mission\Mission.Api\bin\Debug\net8.0\Mission.Services.pdb
-D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\appsettings.json
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\appsettings.json
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.staticwebassets.endpoints.json
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.exe
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.deps.json
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.runtimeconfig.json
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.dll
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Mission.Api.pdb
+D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Humanizer.dll
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\tatvasoft2\Day3\Mission\Mission.Api\bin\Debug\net8.0\Microsoft.Build.Locator.dll
@@ -276,7 +277,6 @@ D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.js
 D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\Mission..D685B158.Up2Date
 D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\Mission.Api.dll
 D:\tatvasoft2\Day3\Mission\Mission.Api\obj\Debug\net8.0\refint\Mission.Api.dll

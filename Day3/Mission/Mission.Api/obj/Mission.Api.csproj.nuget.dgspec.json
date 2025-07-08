@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tatvasoft2\\Day3\\Mission\\Mission.Api\\Mission.Api.csproj": {}
+    "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Api\\Mission.Api.csproj": {}
   },
   "projects": {
-    "D:\\tatvasoft2\\Day3\\Mission\\Mission.Api\\Mission.Api.csproj": {
+    "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Api\\Mission.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Api\\Mission.Api.csproj",
+        "projectUniqueName": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Api\\Mission.Api.csproj",
         "projectName": "Mission.Api",
-        "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Api\\Mission.Api.csproj",
+        "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Api\\Mission.Api.csproj",
         "packagesPath": "C:\\Users\\YASH\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Api\\obj\\",
+        "outputPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
-                "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj"
+              "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
+                "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj"
               },
-              "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
-                "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj"
+              "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
+                "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj"
               },
-              "D:\\tatvasoft2\\Day3\\Mission\\Mission.Services\\Mission.Services.csproj": {
-                "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Services\\Mission.Services.csproj"
+              "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Services\\Mission.Services.csproj": {
+                "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Services\\Mission.Services.csproj"
               }
             }
           }
@@ -76,7 +76,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -102,14 +102,14 @@
         }
       }
     },
-    "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
+    "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+        "projectUniqueName": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj",
         "projectName": "Mission.Entities",
-        "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj",
+        "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj",
         "packagesPath": "C:\\Users\\YASH\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\obj\\",
+        "outputPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -183,14 +183,14 @@
         }
       }
     },
-    "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
+    "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+        "projectUniqueName": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
         "projectName": "Mission.Repositories",
-        "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+        "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
         "packagesPath": "C:\\Users\\YASH\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\obj\\",
+        "outputPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -211,8 +211,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
-                "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj"
+              "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
+                "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj"
               }
             }
           }
@@ -252,14 +252,14 @@
         }
       }
     },
-    "D:\\tatvasoft2\\Day3\\Mission\\Mission.Services\\Mission.Services.csproj": {
+    "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Services\\Mission.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Services\\Mission.Services.csproj",
+        "projectUniqueName": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Services\\Mission.Services.csproj",
         "projectName": "Mission.Services",
-        "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Services\\Mission.Services.csproj",
+        "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Services\\Mission.Services.csproj",
         "packagesPath": "C:\\Users\\YASH\\.nuget\\packages\\",
-        "outputPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Services\\obj\\",
+        "outputPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -280,11 +280,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
-                "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Entities\\Mission.Entities.csproj"
+              "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj": {
+                "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Entities\\Mission.Entities.csproj"
               },
-              "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
-                "projectPath": "D:\\tatvasoft2\\Day3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj"
+              "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj": {
+                "projectPath": "D:\\tatvasoft2\\DAY3\\Mission\\Mission.Repositories\\Mission.Repositories.csproj"
               }
             }
           }
@@ -304,6 +304,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
